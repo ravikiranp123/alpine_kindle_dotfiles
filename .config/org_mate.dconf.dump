@@ -62,7 +62,7 @@ gtk-decoration-layout='menu:minimize,maximize,close'
 gtk-theme='HighContrast'
 icon-theme='HighContrast'
 monospace-font-name='Monospace 11'
-window-scaling-factor=2
+window-scaling-factor=1
 
 [desktop/peripherals/keyboard]
 numlock-state='off'
